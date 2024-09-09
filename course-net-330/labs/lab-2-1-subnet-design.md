@@ -185,7 +185,7 @@ I pinged Lab1-01 (10.8.12.2) from FacStaff-01. Lab1-01 replies, indicating a suc
 
 <figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
-I pinged Lab2-01 (10.8.12.66) from FacStaff-01. Lab2-01 replies, indicating a successful connection between two devices in a different VLAN, on a different switch, and across wings.
+I pinged Lab2-01 (10.8.12.66) from FacStaff-01. Lab2-01 replies, indicating a successful connection between two devices in a different VLAN, on different switches, and across wings.
 
 **Small-scale School Network:**
 
